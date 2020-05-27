@@ -43,7 +43,6 @@ class Register extends React.Component {
 
     }
     render() {
-        const {onRouteChange} = this.props;
         return (
             <div>
                 <h1 className="center f-headline mt0 white grow cursor">Face Detector</h1>
